@@ -1,2 +1,2 @@
 # Weather
-The Weather App is a responsive web application that allows users to check the current weather conditions of any city or location they enter. It fetches real-time data from the WeatherAPI and displays temperature, weather condition, humidity, wind speed, and air quality using a clean and user-friendly interface.
+The Weather App is a responsive web application that allows users to check the current weather conditions of any city or location they enter. It fetches real-time data from the WeatherAPI and displays temperature, weather condition, humidity, wind speed, and air quality using a clean and user-friendly interface. The app is built using HTML, CSS, and JavaScript, and demonstrates API integration, form handling, and dynamic DOM updates.
